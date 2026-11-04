@@ -81,3 +81,6 @@
 ---
 
 *Tệp là minh chứng MC2 để nhận định mức đạt của tiết học; không tính điểm MC2 riêng. Nếu có tình huống khác, sao chép mục 1–5 để ghi thêm.*
+| Ngày | Dùng AI làm gì | Em sửa lại gì |
+|30|10|2026|
+| [30] | [không] | [em giữ nghuyên và sửa tên link github] |
