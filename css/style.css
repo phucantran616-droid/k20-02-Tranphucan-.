@@ -169,8 +169,10 @@ textarea:focus-visible {
   width: 20rem;
   height: 20rem;
   max-width: 100%;
+  flex-shrink: 0;
   border-radius: 50%;
   object-fit: cover;
+  object-position: center 30%;
 }
 
 .skills {
